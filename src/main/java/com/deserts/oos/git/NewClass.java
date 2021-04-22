@@ -12,6 +12,6 @@ public class NewClass {
     public static void main(String[] args) {
         System.out.println("new class");
         System.out.println("dev3344");
-        System.out.println("123");
+        System.out.println("hhhh");
     }
 }
